@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sarthak1995/top-finance-tips/static/css/main.2cce8147.chunk.css",
-    "main.js": "/sarthak1995/top-finance-tips/static/js/main.7a58bd6a.chunk.js",
-    "main.js.map": "/sarthak1995/top-finance-tips/static/js/main.7a58bd6a.chunk.js.map",
-    "runtime~main.js": "/sarthak1995/top-finance-tips/static/js/runtime~main.23cca38f.js",
-    "runtime~main.js.map": "/sarthak1995/top-finance-tips/static/js/runtime~main.23cca38f.js.map",
-    "static/js/2.3310f33a.chunk.js": "/sarthak1995/top-finance-tips/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/sarthak1995/top-finance-tips/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/sarthak1995/top-finance-tips/index.html",
-    "precache-manifest.4e6d0bada1f55a33235afcbc877bbb52.js": "/sarthak1995/top-finance-tips/precache-manifest.4e6d0bada1f55a33235afcbc877bbb52.js",
-    "service-worker.js": "/sarthak1995/top-finance-tips/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/sarthak1995/top-finance-tips/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/sarthak1995/top-finance-tips/static/media/logo.5d5d9eef.svg"
+    "main.css": "/top-finance-tips/static/css/main.2cce8147.chunk.css",
+    "main.js": "/top-finance-tips/static/js/main.7f3bd7cd.chunk.js",
+    "main.js.map": "/top-finance-tips/static/js/main.7f3bd7cd.chunk.js.map",
+    "runtime~main.js": "/top-finance-tips/static/js/runtime~main.241b5077.js",
+    "runtime~main.js.map": "/top-finance-tips/static/js/runtime~main.241b5077.js.map",
+    "static/js/2.3310f33a.chunk.js": "/top-finance-tips/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/top-finance-tips/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/top-finance-tips/index.html",
+    "precache-manifest.f768c808bfb28aa7bd12683971554ca5.js": "/top-finance-tips/precache-manifest.f768c808bfb28aa7bd12683971554ca5.js",
+    "service-worker.js": "/top-finance-tips/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/top-finance-tips/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/top-finance-tips/static/media/logo.5d5d9eef.svg"
   }
 }
